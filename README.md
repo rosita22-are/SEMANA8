@@ -38,4 +38,35 @@ Este repositorio incluye:
 4. Subir el proyecto a tu repositorio personal
    ```bash
    git push -u origin main
+   Tecnologías utilizadas
+
+Ayuda a que cualquiera entienda con qué se trabajó.
+## Tecnologías utilizadas
+
+- Python 3.x
+- Git y GitHub
+- Visual Studio Code (recomendado)
+- Sistema operativo: Windows / Linux / macOS
+## Estructura del repositorio
+
+```text
+├── Unidad 1/
+│   ├── Introducción a POO
+│   ├── Clases y Objetos
+│
+├── Unidad 2/
+│   ├── Herencia
+│   ├── Polimorfismo
+│
+├── dashboard.py
+└── README.md
+## Licencia
+
+Este proyecto es de uso académico y educativo.  
+Puede ser utilizado libremente para fines de aprendizaje.
+## Autor
+
+- Rosa Magdalena Reyes Vasquez
+
+
 
